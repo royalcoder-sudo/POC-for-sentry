@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "file": "index.js",
+  "sources": ["../src/main.js"],
+  "sourcesContent": ["console.log('Hello, Vite!');"],
+  "mappings": "AAAA,OAAO,CAAC,GAAG,CAAC"
+}
