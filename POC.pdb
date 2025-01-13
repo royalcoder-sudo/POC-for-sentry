@@ -1,0 +1,13 @@
+HEADER    EXAMPLE PDB FOR TESTING                            
+TITLE     SIMPLE TEST STRUCTURE                              
+REMARK    THIS IS A TEST PDB FILE                            
+ATOM      1  N   GLY A   1      11.104  13.207  10.157  1.00 20.00           N  
+ATOM      2  CA  GLY A   1      12.560  13.000  10.157  1.00 20.00           C  
+ATOM      3  C   GLY A   1      13.104  14.400  10.157  1.00 20.00           C  
+ATOM      4  O   GLY A   1      12.904  15.400  10.957  1.00 20.00           O  
+ATOM      5  N   ALA A   2      14.204  14.500  10.157  1.00 20.00           N  
+ATOM      6  CA  ALA A   2      15.704  14.300  10.157  1.00 20.00           C  
+ATOM      7  C   ALA A   2      16.204  15.700  10.157  1.00 20.00           C  
+ATOM      8  O   ALA A   2      16.004  16.700  10.957  1.00 20.00           O  
+TER                                                                            
+END
